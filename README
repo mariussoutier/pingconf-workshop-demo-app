@@ -1,1 +1,17 @@
-Demo App
+What will we cover? 
+===================
+
+We are going to build an app together with the following functionality: 
+- consume a stream of tweets 
+- filter tweets with a specific tag 
+- persist matched tweets in redis 
+- open a new stream with matched elements 
+- display elements using websockets
+
+
+How will this work? 
+===================
+
+At the beginning of the workshop we will form 5 groups. 
+Each group will have an instructor who would help folks to get started with Play/Scala. 
+Then groups will simply hack away.
